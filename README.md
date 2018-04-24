@@ -1,27 +1,14 @@
-# elm_project
+# 前言
 
-> A Vue.js project
+> 通过自学与整合慕课网仿造饿了么页面制作而成，数据均采用自慕课网项目。
 
-## Build Setup
+## 技术栈
 
-``` bash
-# install dependencies
+vue2 + vue-router + webpack + ES5/6 + stylus + axios + flex + svg
+
+# 项目运行
+cd elm_project
+
 npm install
 
-# serve with hot reload at localhost:8080
 npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run all tests
-npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
